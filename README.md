@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Vinícius</h1>
 <h3 align="center">Um desenvolvedor back-end em início de carreira, com experiência em Java e Spring Boot, focado em construir APIs REST e microsserviços.</h3>
 
-- 🌱 Estou atualmente aprendendo **Java e Spring Boot**
+-  Estou atualmente aprendendo **Java e Spring Boot**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
