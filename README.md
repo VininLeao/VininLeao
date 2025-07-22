@@ -1,16 +1,14 @@
-<h1 align="center">Oi 👋, eu sou o Vinícius</h1>
-<h3 align="center">Um desenvolvedor back-end em início de carreira, com experiência em Java e Spring Boot, focado em construir APIs REST e microsserviços.</h3>
+<h1 align="center">👋 Olá, eu sou o Vinícius Leão</h1>
+<h3 align="center">Desenvolvedor Back-End focado em Java e Spring Boot, com experiência na criação de APIs REST, microsserviços e bancos de dados relacionais.</h3>
 
-<h3 align="center">Estou atualmente aprendendo Java e Spring Boot</h3>
-
-<h3 align="center">Conecte-se comigo:</h3>
+<h3 align="center">🌐 Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vinicius-fleao" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-fleao" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<h3 align="center">💻 Linguagens e Ferramentas:</h3>
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -33,9 +31,18 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
+<h3 align="center">📌 Projetos em destaque</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vininleao&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas por vininleao" />
+  <a href="https://github.com/VininLeao/sistema-locadora">Sistema de Locadora de Veículos</a> &nbsp;|&nbsp;
+  <a href="https://github.com/VininLeao/key-manager">Gerenciador de Chaves</a>
 </p>
 
+<h3 align="center">🗂️ Linguagens mais usadas</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vininleao&show_icons=true&locale=pt-br&layout=compact&hide_border=true" alt="Linguagens mais usadas por vininleao" />
+</p>
