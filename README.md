@@ -38,7 +38,7 @@
 
 <h3 align="center">📌 Projetos em destaque</h3>
 <p align="center">
-  <a href="https://github.com/VininLeao/sistema-locadora">Sistema de Locadora de Veículos</a> &nbsp;|&nbsp;
+  <a href="https://github.com/VininLeao/Locadora-Veiculos">Sistema de Locadora de Veículos</a> &nbsp;|&nbsp;
   <a href="https://github.com/VininLeao/key-manager">Gerenciador de Chaves</a>
 </p>
 
