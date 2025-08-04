@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VininLeao/VininLeao/main/banner.png" alt="Banner Vinícius Leão" style="max-width: 100%; height: auto;" height="500" />
+  <img src="https://raw.githubusercontent.com/VininLeao/VininLeao/main/banner.png" alt="Banner Vinícius Leão" style="max-width: 100%; height: auto;" height="400" />
 </p>
 
 
