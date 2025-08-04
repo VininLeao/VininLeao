@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VininLeao/VininLeao/main/banner.png" alt="Banner Vinícius Leão" width="100%" />
+  <img src="https://raw.githubusercontent.com/VininLeao/VininLeao/main/banner.png" alt="Banner Vinícius Leão" style="max-width: 100%; height: auto;" height="500" />
 </p>
+
 
 <div align="center">
 
