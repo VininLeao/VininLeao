@@ -1,48 +1,48 @@
-<h1 align="center">👋 Olá, eu sou o Vinícius Leão</h1>
-<h3 align="center">Desenvolvedor Back-End focado em Java e Spring Boot, com experiência na criação de APIs REST, microsserviços e bancos de dados relacionais.</h3>
+<h1 align="center">👋 Olá! Eu sou o <strong>Vinícius Leão</strong></h1>
+<h3 align="center">Desenvolvedor Back-End | Java + Spring Boot</h3>
 
-<h3 align="center">🌐 Conecte-se comigo:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/vinicius-fleao" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-fleao" height="30" width="40" />
+  🔧 Especialista em criação de APIs RESTful, microsserviços e integração com bancos de dados relacionais.
+</p>
+
+---
+
+<h3 align="center">🌐 Conecte-se comigo</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/vinicius-fleao" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<h3 align="center">💻 Linguagens e Ferramentas:</h3>
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring boot" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+---
+
+<h3 align="center">💻 Tecnologias que utilizo</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" alt="Spring Boot" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
+</p>
+
+---
+
+<h3 align="center">📌 Projetos em Destaque</h3>
+<p align="center">
+  <a href="https://github.com/VininLeao/Locadora-Veiculos" target="_blank">
+    <img src="https://img.shields.io/badge/🚗%20Locadora%20de%20Veículos-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/VininLeao/key-manager" target="_blank">
+    <img src="https://img.shields.io/badge/🔐%20Gerenciador%20de%20Chaves-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<h3 align="center">📌 Projetos em destaque</h3>
-<p align="center">
-  <a href="https://github.com/VininLeao/Locadora-Veiculos">Sistema de Locadora de Veículos</a> &nbsp;|&nbsp;
-  <a href="https://github.com/VininLeao/key-manager">Gerenciador de Chaves</a>
-</p>
+---
 
-<h3 align="center">🗂️ Linguagens mais usadas</h3>
+<h3 align="center">📊 Estatísticas GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vininleao&show_icons=true&locale=pt-br&layout=compact&hide_border=true" alt="Linguagens mais usadas por vininleao" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vininleao&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
