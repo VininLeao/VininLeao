@@ -21,6 +21,15 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/VininLeao">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VininLeao&theme=tokyonight&hide_border=true&layout=compact&locale=pt-br" alt="Top Langs" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">🚀 Projetos em Destaque</h2>
 <p align="center">
   <a href="https://github.com/VininLeao/Locadora-Veiculos" target="_blank">
