@@ -31,21 +31,34 @@
 ---
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
-<p align="center">
-  <a href="https://github.com/VininLeao/ClientDeck" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=ClientDeck&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/VininLeao/Portfolio-Alberto-Guimaraes" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=Portfolio-Alberto-Guimaraes&theme=tokyonight&hide_border=true" />
-  </a>
-  <br>
-  <a href="https://github.com/VininLeao/Locadora-Veiculos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=Locadora-Veiculos&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/VininLeao/key-manager" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=key-manager&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/VininLeao/ClientDeck" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=ClientDeck&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/VininLeao/Portfolio-Alberto-Guimaraes" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=Portfolio-Alberto-Guimaraes&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/VininLeao/Locadora-Veiculos" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=Locadora-Veiculos&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/VininLeao/key-manager" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=VininLeao&repo=key-manager&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
